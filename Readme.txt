@@ -41,6 +41,7 @@ https://www.coursera.org/
 https://devicon.dev/
 https://boxicons.com/
 .Others
+https://openai.com/
 https://downloadbuddy.in/
 https://rumble.com/
 https://www.cobratate.com/
@@ -101,18 +102,6 @@ https://www.udacity.com/
           P3: https://drive.google.com/drive/u/0/folders/14P7yk6e8W1Kwb4Bt7l5cqNd_eQAsd000
           P4: https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5
           P5: https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG
-.MustHaveInBrowserShortcuts
-https://www.youtube.com/
-https://docs.google.com/document/u/0/
-https://mail.google.com/mail/u/0/
-https://stackoverflow.com/
-https://iconify.design/
-https://keep.google.com/u/0/
-https://github.com/
-https://www.facebook.com/
-https://www.theguardian.com/international
-https://www.bbc.com/news
-https://news.google.com/home?hl=en-GB&gl=GB&ceid=GB:en
 .Tools
 https://www.wolframalpha.com/
 https://tinywow.com/
