@@ -123,3 +123,7 @@ https://www.forex.com/en/education/education-themes/
 .Presentation
 https://miro.com/
 https://www.canva.com/
+.MOOC
+https://www.edx.org/
+https://digitaldefynd.com/
+
