@@ -24,7 +24,7 @@
 - [Freelancer](https://www.freelancer.com/) - Marketplace for freelance services.
 - [Fiverr](https://www.fiverr.com/) - Affordable freelance services.
 
-### Learning Resources
+### Learning Resources and MOOCs
 - [Codecademy](https://www.codecademy.com/) - Interactive coding lessons.
 - [Exercism](https://exercism.io/) - Coding practice and mentorship.
 - [freeCodeCamp](https://www.freecodecamp.org/) - Learn to code for free.
@@ -39,6 +39,9 @@
 - [Codesansar](https://www.codesansar.com/python-programming/) - Python programming examples.
 - [Python Discord](http://pythondiscord.com/) - Python community and resources.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
+- [edX](https://www.edx.org/) - Massive open online courses from top universities.
+- [Digital Defynd](https://digitaldefynd.com/) - Curated list of online courses and resources.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free online courses from MIT.com
 
 ### Icons
 - [Devicon](https://devicon.dev/) - Programming language and framework icons.
@@ -80,7 +83,6 @@
 - [The Daily Programmer](https://www.thedailyprogrammer.com/) - Programming challenges.
 - [Hackathon.com](https://www.hackathon.com/) - Find and participate in hackathons.
 - [CodeChef](https://www.codechef.com/) - Competitive programming platform.
-- [MLTut](https://www.mltut.com/) - Machine learning tutorials and resources.
 - [Open Source CS](https://github.com/ForrestKnight/open-source-cs) - Free online computer science degree.
 - [Exercism](https://exercism.org/) - Solve programming problems and get feedback.
 - [Hack The Box](https://www.hackthebox.com/) - Cybersecurity training platform.
@@ -127,14 +129,10 @@
 - [Miro](https://miro.com/) - Online whiteboard and collaboration tool.
 - [Canva](https://www.canva.com/) - Design platform for creating presentations, graphics, and more.
 
-### MOOCs
-- [edX](https://www.edx.org/) - Massive open online courses from top universities.
-- [Digital Defynd](https://digitaldefynd.com/) - Curated list of online courses and resources.
-- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free online courses from MIT.com
-
 ### Jobs
 - [StackShare](https://stackshare.io/stacks) - Companies, Corporations' Tech Stacks
 - [LinkedIn](https://www.linkedin.com/) - Professional networking platform.
+- [MLTut](https://www.mltut.com/) - Machine learning tutorials and resources.
 
 Citations:
 [1] https://docstransfer.com
