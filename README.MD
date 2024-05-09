@@ -98,6 +98,7 @@
 - [W3Resource](https://www.w3resource.com/) - Programming exercises and tutorials.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/) - Computer science and programming resources.
 - [Udacity](https://www.udacity.com/) - Online courses and nanodegrees.
+- [StackShare](https://stackshare.io/stacks) - Companies, Corporations' Tech Stacks
 
 ### Unica-Related
 - [Vietnamese C++ Course Part 1](https://drive.google.com/drive/u/0/folders/1YYsIBPtc9ruwK8HmZ2UC5GasdyaKgXK_)
