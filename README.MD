@@ -70,8 +70,6 @@
 - [Freepik](https://www.freepik.com/) - Free vector graphics, photos, and PSD files.
 - [VSCode Hero](https://vsCodeHero.com) - Visual Studio Code tips and tricks.
 - [CodePen](https://codepen.io/) - Online code editor and community.
-- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free online courses from MIT.
-- [LinkedIn](https://www.linkedin.com/) - Professional networking platform.
 - [Frontend Roadmap](https://roadmap.sh/frontend) - Guide to becoming a web developer.
 - [Phrase Bank](https://www.phrasebank.manchester.ac.uk/) - Academic writing phrases.
 - [CodeSandbox](https://codesandbox.io/s) - Online code editor and prototyping tool.
@@ -98,7 +96,7 @@
 - [W3Resource](https://www.w3resource.com/) - Programming exercises and tutorials.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/) - Computer science and programming resources.
 - [Udacity](https://www.udacity.com/) - Online courses and nanodegrees.
-- [StackShare](https://stackshare.io/stacks) - Companies, Corporations' Tech Stacks
+
 
 ### Unica-Related
 - [Vietnamese C++ Course Part 1](https://drive.google.com/drive/u/0/folders/1YYsIBPtc9ruwK8HmZ2UC5GasdyaKgXK_)
@@ -132,6 +130,11 @@
 ### MOOCs
 - [edX](https://www.edx.org/) - Massive open online courses from top universities.
 - [Digital Defynd](https://digitaldefynd.com/) - Curated list of online courses and resources.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - Free online courses from MIT.com
+
+### Jobs
+- [StackShare](https://stackshare.io/stacks) - Companies, Corporations' Tech Stacks
+- [LinkedIn](https://www.linkedin.com/) - Professional networking platform.
 
 Citations:
 [1] https://docstransfer.com
