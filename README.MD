@@ -134,6 +134,9 @@
 - [LinkedIn](https://www.linkedin.com/) - Professional networking platform.
 - [MLTut](https://www.mltut.com/) - Machine learning tutorials and resources.
 
+### A.I
+- [DEvGPT](https://www.getdevkit.com/devgpt) - Co-developer for lonely developers.
+
 Citations:
 [1] https://docstransfer.com
 [2] https://dev.to
