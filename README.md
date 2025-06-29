@@ -172,7 +172,74 @@
 * MLTut: [https://www.mltut.com/](https://www.mltut.com/)
 
 **Windows Software**
-(Organized by category — link list too long to paste in this message. Let me know if you want that in a separate plain text drop.)
+
+Windows Software with Download Links
+
+System Tools & Utilities:
+- 7-Zip: https://www.7-zip.org/
+- WinRAR: https://www.win-rar.com/
+- HiBit Uninstaller: https://www.hibitsoft.ir/Uninstaller.html
+- MSI Afterburner: https://www.msi.com/Landing/afterburner/graphics-cards
+- PowerToys: https://learn.microsoft.com/en-us/windows/powertoys/
+- CPU-Z: https://www.cpuid.com/softwares/cpu-z.html
+
+Browsers:
+- Brave: https://brave.com/
+- Chromium: https://www.chromium.org/
+- Firefox: https://www.mozilla.org/firefox/
+- LibreWolf: https://librewolf.net/
+- Opera GX: https://www.opera.com/gx
+
+Development Tools:
+- CLion: https://www.jetbrains.com/clion/
+- Git: https://git-scm.com/
+- Node.js: https://nodejs.org/
+- Python: https://www.python.org/
+- Visual Studio: https://visualstudio.microsoft.com/
+- Visual Studio Code: https://code.visualstudio.com/
+- Oh My Posh: https://ohmyposh.dev/
+- Windows Terminal: https://github.com/microsoft/terminal
+- Fluent Terminal: https://github.com/felixse/FluentTerminal
+- CyowCopy: https://github.com/1XCYOW/CyowCopy
+
+Multimedia & Audio:
+- DaVinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve/
+- FXSound: https://www.fxsound.com/
+- Lightshot: https://app.prntscr.com/en/index.html
+- OBS Studio: https://obsproject.com/
+- OBS MultiRTMP: https://github.com/sorayuki/obs-multi-rtmp
+
+Utilities & Text Tools:
+- Notepad++: https://notepad-plus-plus.org/
+- Foxit Reader: https://www.foxit.com/pdf-reader/
+- LibreOffice: https://www.libreoffice.org/
+- EVKey: https://evkeyvn.com/
+- UniKey: https://unikey.org/
+
+Games & Launchers:
+- Epic Games Launcher: https://store.epicgames.com/en-US/
+- Steam: https://store.steampowered.com/
+- Valorant: https://playvalorant.com/
+- Roblox: https://www.roblox.com/
+- LaunchBox: https://www.launchbox-app.com/
+- RetroBat: https://retrobat.ovh/
+- Xbox Installer: https://www.xbox.com/en-US/apps/xbox-app-for-windows
+
+Communication & Social:
+- Discord: https://discord.com/
+- Vencord: https://vencord.dev/
+
+AI & LLM Tools:
+- LLM Studio: https://github.com/Gradient-LLM/LLM-Studio
+- LM Studio: https://lmstudio.ai/
+
+Other Tools:
+- BalenaEtcher: https://etcher.balena.io/
+- DXWebSetup: https://www.microsoft.com/en-us/download/details.aspx?id=35
+- SpotX: https://github.com/SpotX-Official/SpotX
+- uTorrent Web: https://web.utorrent.com/
+- MyS2: https://mys2.vn/
+- Node24: https://node24.vn/
 
 **Vietnamese C++ Courses (Unica)**
 
