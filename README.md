@@ -249,3 +249,77 @@ Other Tools:
 * Part 4: [https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5](https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5)
 * Part 5: [https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG](https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG)
 
+Here's a **plain text, copy-paste-friendly version** of sites like **freemediaheckyeah**, ready to save as a `.md` or use in terminal:
+
+---
+
+# Freemediaheckyeah Alternatives & Similar Resources
+
+## 🧩 General Free Resources & Indexes
+
+- r/FREEMEDIAHECKYEAH  
+  https://www.reddit.com/r/FREEMEDIAHECKYEAH
+
+- The Pirate Handbook (GitHub mirror)  
+  https://github.com/Igglybuff/awesome-piracy
+
+- Awesome Piracy  
+  https://github.com/Igglybuff/awesome-piracy
+
+- FOSS Collection (Games, Tools, etc.)  
+  https://github.com/fosslife
+
+---
+
+## 📚 eBooks, Learning, Archives
+
+- Anna's Archive  
+  https://annas-archive.org
+
+- Z-Library (use mirror or Tor)  
+  https://z-lib.org
+
+- Sci-Hub  
+  https://sci-hub.se
+
+- Internet Archive  
+  https://archive.org
+
+---
+
+## 📺 Media Streaming / Download Tools
+
+- Stremio + Torrentio  
+  https://www.stremio.com
+
+- Jellyfin (self-hostable Plex alternative)  
+  https://jellyfin.org
+
+- FMHY Gitbook (Tools by category)  
+  https://freemediaheckyeah.gitbook.io/
+
+---
+
+## 🧠 Privacy & Anti-Telemetry Tools
+
+- PrivacyGuides  
+  https://www.privacyguides.org
+
+- Awesome-Selfhosted  
+  https://github.com/awesome-selfhosted/awesome-selfhosted
+
+- Simple Web Alternatives  
+  https://simple-web.org/
+
+---
+
+## 💬 Communities & Index Hubs
+
+- r/Piracy  
+  https://www.reddit.com/r/Piracy
+
+- r/selfhosted  
+  https://www.reddit.com/r/selfhosted
+
+- Rentry (many index lists and mirrors)  
+  https://rentry.co
