@@ -502,10 +502,86 @@ Ahhh, I see what you mean now — you want **directories or hubs that collect PP
 
 ---
 
-## ⚠️ Want me to format this into a `.md` or offline `.txt` cheatlist?
+Ah, you want **links to every “reading cloud” — sites that store or index ebooks, articles, research papers, zines, manga, etc.** Basically, anywhere you can **read or download text-based content** for free (legally or in the gray area)? Say less. Here's your **Reading Cloud Megalist™**:
 
-I can also build you:
+---
 
-* 🧩 Script to search across multiple distros
-* 🧰 Custom script to batch add PPAs you trust
-* 🔒 FOSS-only repo list (Libre + non-telemetry)
+# ☁️📚 **Reading Cloud / eBook Libraries / Archives**
+
+## 🧠 **Mega Book Archives & Indexers**
+
+| 🔍 Name                                                 | 🌐 URL                                                    |
+| ------------------------------------------------------- | --------------------------------------------------------- |
+| **Anna’s Archive** *(Z-Lib + Libgen + Sci-Hub mirror)*  | [https://annas-archive.org](https://annas-archive.org)    |
+| **Library Genesis (LibGen)**                            | `http://libgen.rs` *(Tor/mirror needed if blocked)*       |
+| **Z-Library (mirror index)**                            | [https://z-lib.is](https://z-lib.is) *(status varies)*    |
+| **Sci-Hub (research papers)**                           | [https://sci-hub.se](https://sci-hub.se) *(use with DOI)* |
+| **Project Gutenberg** *(public domain classics)*        | [https://www.gutenberg.org/](https://www.gutenberg.org/)  |
+| **Internet Archive** *(books, movies, games, and more)* | [https://archive.org/](https://archive.org/)              |
+| **Open Library (by Archive.org)**                       | [https://openlibrary.org/](https://openlibrary.org/)      |
+
+---
+
+## 📕 **Textbooks / Educational**
+
+| 📘 Name                                             | 🌐 URL                                                                                                                 |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **PDF Drive** *(free books via scraping)*           | [https://www.pdfdrive.com/](https://www.pdfdrive.com/)                                                                 |
+| **Bookboon** *(academic + business PDFs)*           | [https://bookboon.com/](https://bookboon.com/)                                                                         |
+| **FreeComputerBooks** *(CS & math focused)*         | [https://freecomputerbooks.com/](https://freecomputerbooks.com/)                                                       |
+| **O’Reilly Open Books** *(tech books from authors)* | [https://www.oreilly.com/openbook/](https://www.oreilly.com/openbook/)                                                 |
+| **GitHub Free Programming Books**                   | [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) |
+
+---
+
+## 📖 **Research & Academic Articles**
+
+| 🧪 Name                                           | 🌐 URL                                                               |
+| ------------------------------------------------- | -------------------------------------------------------------------- |
+| **arXiv** *(math, CS, physics preprints)*         | [https://arxiv.org/](https://arxiv.org/)                             |
+| **DOAJ (open access journals)**                   | [https://doaj.org/](https://doaj.org/)                               |
+| **CORE (academic repository)**                    | [https://core.ac.uk/](https://core.ac.uk/)                           |
+| **Directory of Open Access Books (DOAB)**         | [https://www.doabooks.org/](https://www.doabooks.org/)               |
+| **Semantic Scholar** *(ML + science focus)*       | [https://www.semanticscholar.org/](https://www.semanticscholar.org/) |
+| **ResearchGate** *(paper uploads by researchers)* | [https://www.researchgate.net/](https://www.researchgate.net/)       |
+
+---
+
+## 🌐 **Self-Hosting Indexes (for DIY eBook clouds)**
+
+| 🧩 Tool                                           | 🌐 URL                                                                             |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Calibre Web** *(self-hosted eBook server)*      | [https://github.com/janeczku/calibre-web](https://github.com/janeczku/calibre-web) |
+| **Kavita** *(comic and manga server)*             | [https://github.com/Kareadita/Kavita](https://github.com/Kareadita/Kavita)         |
+| **Komga** *(manga/graphic novel reader)*          | [https://github.com/gotson/komga](https://github.com/gotson/komga)                 |
+| **Stump** *(lightweight reader for EPUB/CBZ/CBR)* | [https://github.com/Lazya/Stump](https://github.com/Lazya/Stump)                   |
+| **Ubooquity** *(Java-based book/manga server)*    | [https://vaemendis.net/ubooquity/](https://vaemendis.net/ubooquity/)               |
+
+---
+
+## 🎴 **Manga / Light Novels / Comics Clouds**
+
+| 🌙 Name                                   | 🌐 URL                                                           |
+| ----------------------------------------- | ---------------------------------------------------------------- |
+| **MangaDex** *(open-source manga reader)* | [https://mangadex.org/](https://mangadex.org/)                   |
+| **Mangapill** *(clean UI & fast updates)* | [https://mangapill.com/](https://mangapill.com/)                 |
+| **NovelUpdates (Light Novels)**           | [https://www.novelupdates.com/](https://www.novelupdates.com/)   |
+| **LNMTL (Machine TL light novels)**       | [https://lnmtl.com/](https://lnmtl.com/)                         |
+| **ReadLightNovel**                        | [https://www.readlightnovel.me/](https://www.readlightnovel.me/) |
+| **Webtoons** *(Korean comics, official)*  | [https://www.webtoons.com/en/](https://www.webtoons.com/en/)     |
+
+---
+
+## 🧠 **Niche Archives & Zines**
+
+| 🗞️ Name                                      | 🌐 URL                                                                         |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Monoskop** *(media theory, art books)*      | [https://monoskop.org/](https://monoskop.org/)                                 |
+| **Memory of the World** *(radical lit/zines)* | [https://library.memoryoftheworld.org/](https://library.memoryoftheworld.org/) |
+| **RedSci (political zines/texts)**            | [https://redsci.github.io/](https://redsci.github.io/)                         |
+| **Anarchist Library**                         | [https://theanarchistlibrary.org/](https://theanarchistlibrary.org/)           |
+| **Sci-Hub Mirror List**                       | [https://sci-hub.now.sh/](https://sci-hub.now.sh/) *(mirror redirect)*         |
+
+---
+
+
