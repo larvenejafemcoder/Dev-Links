@@ -1,325 +1,515 @@
-**Coloring, Styling, and Designing**
-
-* Enhance UI: [https://www.enhanceui.com/](https://www.enhanceui.com/)
-* Encycolorpedia: [https://encycolorpedia.com/](https://encycolorpedia.com/)
-* Dribbble: [https://dribbble.com/](https://dribbble.com/)
-* Awwwards: [https://www.awwwards.com/](https://www.awwwards.com/)
-* Coolors: [https://coolors.co/](https://coolors.co/)
-* Spline: [https://spline.design/](https://spline.design/)
-* Pinterest: [https://www.pinterest.com/](https://www.pinterest.com/)
-* Aceternity: [https://ui.aceternity.com/](https://ui.aceternity.com/)
-* Khroma: [http://khroma.co/](http://khroma.co/)
-
-**Stock Images and Videos**
-
-* Unsplash: [https://unsplash.com/](https://unsplash.com/)
-* Pexels: [https://www.pexels.com/](https://www.pexels.com/)
-* unDraw: [https://undraw.co/](https://undraw.co/)
-* Coverr: [https://coverr.co/](https://coverr.co/)
-
-**Deploying Websites**
-
-* Heroku: [https://www.heroku.com/](https://www.heroku.com/)
-* Netlify: [https://www.netlify.app/](https://www.netlify.app/)
-* Vercel: [https://vercel.com/](https://vercel.com/)
-* Cloudflare Pages: [https://pages.cloudflare.com/](https://pages.cloudflare.com/)
-
-**Learning Resources and MOOCs**
-
-* Codecademy: [https://www.codecademy.com/](https://www.codecademy.com/)
-* Exercism: [https://exercism.io/](https://exercism.io/)
-* freeCodeCamp: [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
-* General Assembly: [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
-* MDN Web Docs: [https://developer.mozilla.org/](https://developer.mozilla.org/)
-* SoloLearn: [https://www.sololearn.com/](https://www.sololearn.com/)
-* JS Mastery: [https://www.jsmastery.pro/resources](https://www.jsmastery.pro/resources)
-* TechPro Free: [https://www.techprofree.com/](https://www.techprofree.com/)
-* Udemy: [https://www.udemy.com/](https://www.udemy.com/)
-* Python Docs: [https://docs.python.org/3/](https://docs.python.org/3/)
-* W3Schools Python: [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
-* Codesansar: [https://www.codesansar.com/python-programming/](https://www.codesansar.com/python-programming/)
-* Python Discord: [http://pythondiscord.com/](http://pythondiscord.com/)
-* Coursera: [https://www.coursera.org/](https://www.coursera.org/)
-* edX: [https://www.edx.org/](https://www.edx.org/)
-* Digital Defynd: [https://digitaldefynd.com/](https://digitaldefynd.com/)
-* MIT OpenCourseWare: [https://ocw.mit.edu/](https://ocw.mit.edu/)
-* TIOBE Index: [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)
-* Frontend Mentor: [https://www.frontendmentor.io/](https://www.frontendmentor.io/)
-* The Odin Project: [https://www.theodinproject.com/](https://www.theodinproject.com/)
-* Upskill Courses: [https://upskillcourses.com/](https://upskillcourses.com/)
-* Built In: [https://builtin.com/](https://builtin.com/)
-* Tech Series: [https://www.techseries.dev/](https://www.techseries.dev/)
-* Allen Downey's Site: [https://www.allendowney.com/wp/](https://www.allendowney.com/wp/)
-* Open Source CS: [https://github.com/ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs)
-
-**Art Gallery & Portfolio**
-
-* Behance: [https://www.behance.net/](https://www.behance.net/)
-* ArtStation: [https://www.artstation.com/](https://www.artstation.com/)
-* Carbonmade: [https://carbonmade.com/](https://carbonmade.com/)
-* Adobe Portfolio: [https://portfolio.adobe.com/](https://portfolio.adobe.com/)
-* Cargo: [https://cargo.site/](https://cargo.site/)
-* DeviantArt: [https://www.deviantart.com/](https://www.deviantart.com/)
-* Pixiv: [https://www.pixiv.net/](https://www.pixiv.net/)
-* Fabrik: [https://fabrik.io/](https://fabrik.io/)
-* Crevado: [https://crevado.com/](https://crevado.com/)
-* Artfol: [https://artfol.me/](https://artfol.me/)
-
-**Icons**
-
-* Devicon: [https://devicon.dev/](https://devicon.dev/)
-* Boxicons: [https://boxicons.com/](https://boxicons.com/)
-
-**Developer Tools & Utilities**
-
-* Responsively: [https://responsively.app/](https://responsively.app/)
-* Figma: [https://figma.com/](https://figma.com/)
-* Regex101: [https://regex101.com/](https://regex101.com/)
-* JSONLint: [https://jsonlint.com/](https://jsonlint.com/)
-* JSFiddle: [https://jsfiddle.net/](https://jsfiddle.net/)
-* CodePen: [https://codepen.io/](https://codepen.io/)
-* GitHub Gist: [https://gist.github.com/](https://gist.github.com/)
-* Web.dev: [https://web.dev/](https://web.dev/)
-* BrowserStack: [https://www.browserstack.com/](https://www.browserstack.com/)
-* Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
-* CSS-Tricks: [https://css-tricks.com/snippets/](https://css-tricks.com/snippets/)
-* DevHints: [https://devhints.io/](https://devhints.io/)
-* OverAPI: [https://overapi.com/](https://overapi.com/)
-* Cheatography: [https://cheatography.com/](https://cheatography.com/)
-
-**Code Templates, UI Kits & Components**
-
-* Tailwind UI: [https://tailwindui.com/](https://tailwindui.com/)
-* UIVerse: [https://uiverse.io/](https://uiverse.io/)
-* HTML5 UP: [https://html5up.net/](https://html5up.net/)
-* Start Bootstrap: [https://startbootstrap.com/](https://startbootstrap.com/)
-* Tails: [https://tails.com/](https://tails.com/)
-* Flowbite: [https://flowbite.com/](https://flowbite.com/)
-* Mamba UI: [https://www.mambaui.com/](https://www.mambaui.com/)
-* One Page Love: [https://onepagelove.com/](https://onepagelove.com/)
-* Creative Tim: [https://www.creative-tim.com/templates](https://www.creative-tim.com/templates)
-* Templatemo: [https://templatemo.com/](https://templatemo.com/)
-* ThemeWagon: [https://themewagon.com/](https://themewagon.com/)
-* Colorlib Templates: [https://colorlib.com/wp/templates/](https://colorlib.com/wp/templates/)
-* Bootsnipp: [https://bootsnipp.com/](https://bootsnipp.com/)
-* CodeMyUI: [https://codemyui.com/](https://codemyui.com/)
-* HyperUI: [https://www.hyperui.dev/](https://www.hyperui.dev/)
-* LottieFiles: [https://lottiefiles.com/](https://lottiefiles.com/)
-
-**Communities**
-
-* DEV Community: [https://dev.to/](https://dev.to/)
-* Indie Hackers: [https://www.indiehackers.com/](https://www.indiehackers.com/)
-* CodeProject: [https://www.codeproject.com/](https://www.codeproject.com/)
-* HackerRank: [https://www.hackerrank.com/](https://www.hackerrank.com/)
-* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
-
-**Platforms**
-
-* Firebase: [https://firebase.google.com/](https://firebase.google.com/)
-* Tauri: [https://tauri.app/](https://tauri.app/)
-* OpenAI: [https://openai.com/](https://openai.com/)
-* VSCode Hero: [https://vsCodeHero.com](https://vsCodeHero.com)
-* Moralis: [https://moralis.io/](https://moralis.io/)
-
-**AI Tools**
-
-* DEvGPT: [https://www.getdevkit.com/devgpt](https://www.getdevkit.com/devgpt)
-* Cursor: [https://www.cursor.sh/](https://www.cursor.sh/)
-* Codeium: [https://codeium.com/](https://codeium.com/)
-* Tabnine: [https://www.tabnine.com/](https://www.tabnine.com/)
-* GitHub Copilot: [https://github.com/features/copilot](https://github.com/features/copilot)
-* Replit Ghostwriter: [https://replit.com/site/ghostwriter](https://replit.com/site/ghostwriter)
-* MutableAI: [https://mutable.ai/](https://mutable.ai/)
-* AskTheCode: [https://askthecode.ai/](https://askthecode.ai/)
-* Sweep: [https://sweep.dev/](https://sweep.dev/)
-* Continue: [https://continue.dev/](https://continue.dev/)
-* CodeWhisperer: [https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/codewhisperer/)
-* Uizard: [https://uizard.io/](https://uizard.io/)
-* Magician: [https://magician.design/](https://magician.design/)
-* Runway: [https://runwayml.com/](https://runwayml.com/)
-* Cleanup.pictures: [https://cleanup.pictures/](https://cleanup.pictures/)
-* Remove.bg: [https://www.remove.bg/](https://www.remove.bg/)
-* Notion AI: [https://www.notion.so/product/ai](https://www.notion.so/product/ai)
-* Copy.ai: [https://www.copy.ai/](https://www.copy.ai/)
-* Jasper: [https://www.jasper.ai/](https://www.jasper.ai/)
-* MagickPen: [https://magickpen.com/](https://magickpen.com/)
-* Axiom: [https://axiom.ai/](https://axiom.ai/)
-* Taskade: [https://www.taskade.com/](https://www.taskade.com/)
-* Tldraw: [https://www.tldraw.com/](https://www.tldraw.com/)
-* AskYourPDF: [https://www.askyourpdf.com/](https://www.askyourpdf.com/)
-* FlowGPT: [https://flowgpt.com/](https://flowgpt.com/)
-
-**Utilities**
-
-* Wolfram Alpha: [https://www.wolframalpha.com/](https://www.wolframalpha.com/)
-* TinyWow: [https://tinywow.com/](https://tinywow.com/)
-* JotForm: [https://www.jotform.com/](https://www.jotform.com/)
-* I Love PDF: [https://www.ilovepdf.com/](https://www.ilovepdf.com/)
-* Internet Archive: [https://archive.org/](https://archive.org/)
-* Open Source Alternative: [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)
-
-**Presentation**
-
-* Miro: [https://miro.com/](https://miro.com/)
-* Canva: [https://www.canva.com/](https://www.canva.com/)
-* Tldraw: [https://www.tldraw.com/](https://www.tldraw.com/)
-
-**Jobs**
-
-* StackShare: [https://stackshare.io/stacks](https://stackshare.io/stacks)
-* LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/)
-* MLTut: [https://www.mltut.com/](https://www.mltut.com/)
-
-**Windows Software**
-
-Windows Software with Download Links
-
-System Tools & Utilities:
-- 7-Zip: https://www.7-zip.org/
-- WinRAR: https://www.win-rar.com/
-- HiBit Uninstaller: https://www.hibitsoft.ir/Uninstaller.html
-- MSI Afterburner: https://www.msi.com/Landing/afterburner/graphics-cards
-- PowerToys: https://learn.microsoft.com/en-us/windows/powertoys/
-- CPU-Z: https://www.cpuid.com/softwares/cpu-z.html
-
-Browsers:
-- Brave: https://brave.com/
-- Chromium: https://www.chromium.org/
-- Firefox: https://www.mozilla.org/firefox/
-- LibreWolf: https://librewolf.net/
-- Opera GX: https://www.opera.com/gx
-
-Development Tools:
-- CLion: https://www.jetbrains.com/clion/
-- Git: https://git-scm.com/
-- Node.js: https://nodejs.org/
-- Python: https://www.python.org/
-- Visual Studio: https://visualstudio.microsoft.com/
-- Visual Studio Code: https://code.visualstudio.com/
-- Oh My Posh: https://ohmyposh.dev/
-- Windows Terminal: https://github.com/microsoft/terminal
-- Fluent Terminal: https://github.com/felixse/FluentTerminal
-- CyowCopy: https://github.com/1XCYOW/CyowCopy
-
-Multimedia & Audio:
-- DaVinci Resolve: https://www.blackmagicdesign.com/products/davinciresolve/
-- FXSound: https://www.fxsound.com/
-- Lightshot: https://app.prntscr.com/en/index.html
-- OBS Studio: https://obsproject.com/
-- OBS MultiRTMP: https://github.com/sorayuki/obs-multi-rtmp
-
-Utilities & Text Tools:
-- Notepad++: https://notepad-plus-plus.org/
-- Foxit Reader: https://www.foxit.com/pdf-reader/
-- LibreOffice: https://www.libreoffice.org/
-- EVKey: https://evkeyvn.com/
-- UniKey: https://unikey.org/
-
-Games & Launchers:
-- Epic Games Launcher: https://store.epicgames.com/en-US/
-- Steam: https://store.steampowered.com/
-- Valorant: https://playvalorant.com/
-- Roblox: https://www.roblox.com/
-- LaunchBox: https://www.launchbox-app.com/
-- RetroBat: https://retrobat.ovh/
-- Xbox Installer: https://www.xbox.com/en-US/apps/xbox-app-for-windows
-
-Communication & Social:
-- Discord: https://discord.com/
-- Vencord: https://vencord.dev/
-
-AI & LLM Tools:
-- LLM Studio: https://github.com/Gradient-LLM/LLM-Studio
-- LM Studio: https://lmstudio.ai/
-
-Other Tools:
-- BalenaEtcher: https://etcher.balena.io/
-- DXWebSetup: https://www.microsoft.com/en-us/download/details.aspx?id=35
-- SpotX: https://github.com/SpotX-Official/SpotX
-- uTorrent Web: https://web.utorrent.com/
-- MyS2: https://mys2.vn/
-- Node24: https://node24.vn/
-
-**Vietnamese C++ Courses (Unica)**
-
-* Part 1: [https://drive.google.com/drive/u/0/folders/1YYsIBPtc9ruwK8HmZ2UC5GasdyaKgXK](https://drive.google.com/drive/u/0/folders/1YYsIBPtc9ruwK8HmZ2UC5GasdyaKgXK)\_
-* Part 2: [https://drive.google.com/drive/u/0/folders/1aZ7WhxKzgsKkTXUvEwUGFzgjkEhxv0wx](https://drive.google.com/drive/u/0/folders/1aZ7WhxKzgsKkTXUvEwUGFzgjkEhxv0wx)
-* Part 3: [https://drive.google.com/drive/u/0/folders/14P7yk6e8W1Kwb4Bt7l5cqNd\_eQAsd000](https://drive.google.com/drive/u/0/folders/14P7yk6e8W1Kwb4Bt7l5cqNd_eQAsd000)
-* Part 4: [https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5](https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5)
-* Part 5: [https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG](https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG)
-
-Here's a **plain text, copy-paste-friendly version** of sites like **freemediaheckyeah**, ready to save as a `.md` or use in terminal:
+Here’s your mega Markdown resource list rebranded for max Gen Z chaos, dopamine scroll energy, and straight-to-the-point vibes — perfect for the attention-span-challenged developer with 99 tabs open:
 
 ---
 
-# Freemediaheckyeah Alternatives & Similar Resources
+# 🎨✨ *Make It Pretty, Babe* (Design & UI Vibes)
 
-## 🧩 General Free Resources & Indexes
-
-- r/FREEMEDIAHECKYEAH  
-  https://www.reddit.com/r/FREEMEDIAHECKYEAH
-
-- The Pirate Handbook (GitHub mirror)  
-  https://github.com/Igglybuff/awesome-piracy
-
-- Awesome Piracy  
-  https://github.com/Igglybuff/awesome-piracy
-
-- FOSS Collection (Games, Tools, etc.)  
-  https://github.com/fosslife
+* 🔥 [Enhance UI](https://www.enhanceui.com/) – Spice up your app like it's on Instagram.
+* 🌈 [Encycolorpedia](https://encycolorpedia.com/) – Pick colors like you got taste.
+* 🎯 [Dribbble](https://dribbble.com/) – For when you wanna feel broke looking at perfect UIs.
+* 🏆 [Awwwards](https://www.awwwards.com/) – Judgey design Oscars.
+* 🎨 [Coolors](https://coolors.co/) – Color palette generator for lazy geniuses.
+* 🧊 [Spline](https://spline.design/) – Make 3D stuff without touching Blender.
+* 📌 [Pinterest](https://www.pinterest.com/) – Visual inspo for literally *everything*.
+* 💎 [Aceternity UI](https://ui.aceternity.com/) – Shiny Tailwind components for trendsetters.
+* 🤖 [Khroma](http://khroma.co/) – AI-powered color matching for the chromatically confused.
 
 ---
 
-## 📚 eBooks, Learning, Archives
+# 📸 *Stock It Like It’s Hot* (Free Pics/Vids)
 
-- Anna's Archive  
-  https://annas-archive.org
-
-- Z-Library (use mirror or Tor)  
-  https://z-lib.org
-
-- Sci-Hub  
-  https://sci-hub.se
-
-- Internet Archive  
-  https://archive.org
+* 📷 [Unsplash](https://unsplash.com/) – Clean, free, ✨aesthetic✨.
+* 📽️ [Pexels](https://www.pexels.com/) – Photos + vids for your cringe startup demo.
+* 🎨 [unDraw](https://undraw.co/) – Chill SVGs that actually slap.
+* 🎞️ [Coverr](https://coverr.co/) – Free vids that don’t scream “stock footage.”
 
 ---
 
-## 📺 Media Streaming / Download Tools
+# 🚀 *Deploy or Die Trying* (Hosting Platforms)
 
-- Stremio + Torrentio  
-  https://www.stremio.com
-
-- Jellyfin (self-hostable Plex alternative)  
-  https://jellyfin.org
-
-- FMHY Gitbook (Tools by category)  
-  https://freemediaheckyeah.gitbook.io/
+* ☁️ [Heroku](https://www.heroku.com/) – OG of lazy deployments.
+* 🦊 [Netlify](https://www.netlify.app/) – Drag, drop, deploy, done.
+* 🧪 [Vercel](https://vercel.com/) – For Next.js fanboys & girls.
+* ⚡ [Cloudflare Pages](https://pages.cloudflare.com/) – Fast af, no cap.
 
 ---
 
-## 🧠 Privacy & Anti-Telemetry Tools
+# 🧠 *Learn or Burn* (MOOCs & Free Courses)
 
-- PrivacyGuides  
-  https://www.privacyguides.org
+* 👨‍🏫 [Codecademy](https://www.codecademy.com/) – Interactive like Duolingo, but for devs.
+* 💡 [Exercism](https://exercism.io/) – Practice like you're Rocky training for dev fights.
+* 🦾 [freeCodeCamp](https://www.freecodecamp.org/) – Free AF. 10/10 recommend.
+* 📘 [MDN Docs](https://developer.mozilla.org/) – Google sends you here for a reason.
+* 🧪 [JS Mastery](https://www.jsmastery.pro/resources) – Dev glow-up in progress.
+* 🧠 [The Odin Project](https://www.theodinproject.com/) – For devs who want to suffer *intentionally*.
 
-- Awesome-Selfhosted  
-  https://github.com/awesome-selfhosted/awesome-selfhosted
-
-- Simple Web Alternatives  
-  https://simple-web.org/
+(*…and like 20+ more in the OG list – all still relevant!*)
 
 ---
 
-## 💬 Communities & Index Hubs
+# 🎨 *Arts & Portfolios, But Make It Slay*
 
-- r/Piracy  
-  https://www.reddit.com/r/Piracy
+* 🎨 [Behance](https://www.behance.net/)
+* 🖌️ [ArtStation](https://www.artstation.com/)
+* 🖼️ [Adobe Portfolio](https://portfolio.adobe.com/)
+* 📦 [Carbonmade](https://carbonmade.com/)
+* 🧬 [Cargo](https://cargo.site/)
+* 💀 [DeviantArt](https://www.deviantart.com/) – Yes, it's still alive.
+* 🧃 [Pixiv](https://www.pixiv.net/) – Anime artists' home planet.
 
-- r/selfhosted  
-  https://www.reddit.com/r/selfhosted
+---
 
-- Rentry (many index lists and mirrors)  
-  https://rentry.co
+# 🧙 *Icons & Swag*
+
+* 🧠 [Devicon](https://devicon.dev/) – Nerdy icons for all your tech stack flexing.
+* 📦 [Boxicons](https://boxicons.com/) – Pretty lil SVGs for UIs with ✨aesthetic✨.
+
+---
+
+# 🛠️ *Dev Tools That Don’t Suck*
+
+* 🖥️ [Figma](https://figma.com/) – Google Docs for design.
+* 🧪 [Regex101](https://regex101.com/) – Because you never remember regex.
+* 🐍 [JSONLint](https://jsonlint.com/) – For when your JSON be gaslighting you.
+* 🧬 [JSFiddle](https://jsfiddle.net/) / [CodePen](https://codepen.io/) – Throw code in, test chaos out.
+* 🧠 [DevHints](https://devhints.io/) – Like cheat codes but for real life.
+* 🤓 [Stack Overflow](https://stackoverflow.com/) – Dev therapy session.
+* 🛠️ [Responsively](https://responsively.app/) – Test UI across 99 devices simultaneously.
+  (*also: GitHub Gist, OverAPI, BrowserStack, CSS-Tricks... they're all bangers.*)
+
+---
+
+# 🎁 *UI Kits & Templates So You Don’t Have To Design*
+
+* 🧃 [Tailwind UI](https://tailwindui.com/)
+* 🌈 [UIVerse](https://uiverse.io/)
+* 🏁 [Start Bootstrap](https://startbootstrap.com/)
+* 🌀 [Flowbite](https://flowbite.com/)
+* 💀 [Mamba UI](https://www.mambaui.com/)
+* 💘 [HyperUI](https://www.hyperui.dev/)
+* 🎞️ [LottieFiles](https://lottiefiles.com/)
+
+---
+
+# 🤝 *Dev Community = Instant XP*
+
+* 🧠 [DEV.to](https://dev.to/)
+* 🦄 [Indie Hackers](https://www.indiehackers.com/)
+* 🏆 [HackerRank](https://www.hackerrank.com/)
+* 💬 [CodeProject](https://www.codeproject.com/)
+* 🏢 [LinkedIn](https://www.linkedin.com/) – Use it wisely, don’t be cringe.
+
+---
+
+# ⚙️ *Dev Platforms You Should Know*
+
+* 📦 [Firebase](https://firebase.google.com/)
+* 💻 [VSCode Hero](https://vsCodeHero.com)
+* 🧠 [OpenAI](https://openai.com/)
+* 🦾 [Tauri](https://tauri.app/)
+* 🧙 [Moralis](https://moralis.io/)
+
+---
+
+# 🤖 *AI Tools That Code While You Vibe*
+
+* 👻 [Cursor](https://www.cursor.sh/)
+* 💬 [Codeium](https://codeium.com/)
+* 🧠 [GitHub Copilot](https://github.com/features/copilot)
+* 🧙 [Mutable AI](https://mutable.ai/)
+* 🪄 [Magician](https://magician.design/)
+* 🧹 [Cleanup.pictures](https://cleanup.pictures/)
+* 🧽 [Remove.bg](https://www.remove.bg/)
+* 📝 [Notion AI](https://www.notion.so/product/ai)
+* 🧠 [FlowGPT](https://flowgpt.com/)
+  *(...yes there’s like 20 more – you know where they are.)*
+
+---
+
+# 💼 *Get That Bread (Jobs & Tools)*
+
+* 📈 [StackShare](https://stackshare.io/stacks)
+* 🤖 [MLTut](https://www.mltut.com/)
+* 🧠 [LinkedIn](https://www.linkedin.com/)
+
+---
+
+# 🎮 *Windows Software for Degens + Productivity Freaks*
+
+### 📦 System Stuff:
+
+* [7-Zip](https://www.7-zip.org/)
+* [WinRAR](https://www.win-rar.com/)
+* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+
+### 🌐 Browsers:
+
+* [Brave](https://brave.com/)
+* [LibreWolf](https://librewolf.net/)
+* [Opera GX](https://www.opera.com/gx)
+
+### 🧑‍💻 Dev Stuff:
+
+* [CLion](https://www.jetbrains.com/clion/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Oh My Posh](https://ohmyposh.dev/)
+
+### 🎧 Multimedia:
+
+* [OBS Studio](https://obsproject.com/)
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+### 🔤 Utilities:
+
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Foxit PDF](https://www.foxit.com/pdf-reader/)
+* [LibreOffice](https://www.libreoffice.org/)
+
+### 🎮 Gamers Rise Up:
+
+* [Steam](https://store.steampowered.com/)
+* [Epic Games](https://store.epicgames.com/en-US/)
+* [LaunchBox](https://www.launchbox-app.com/)
+
+---
+
+# 📚 *Vietnamese C++ Courses (Unica Leak 👀)*
+
+* 🎥 [Part 1](https://drive.google.com/drive/u/0/folders/1YYsIBPtc9ruwK8HmZ2UC5GasdyaKgXK)
+* 🎥 [Part 2](https://drive.google.com/drive/u/0/folders/1aZ7WhxKzgsKkTXUvEwUGFzgjkEhxv0wx)
+* 🎥 [Part 3](https://drive.google.com/drive/u/0/folders/14P7yk6e8W1Kwb4Bt7l5cqNd_eQAsd000)
+* 🎥 [Part 4](https://drive.google.com/drive/u/0/folders/1adMGSG9-Wc1SVKXUDGTnrbgcrEtK7Kz5)
+* 🎥 [Part 5](https://drive.google.com/drive/u/0/folders/1lQpQb6fOioBC49pRgfLUmQ5Dnvso4elG)
+
+
+## 💡 Possible Missing Sauce:
+
+### 🧱 **Backend & DevOps Tools**
+
+You got front-end/UI/design on lock, but:
+
+* 🐳 [Docker](https://www.docker.com/) – Containerize like a real dev.
+* 🧩 [Postman](https://www.postman.com/) – API testing = no more crying over 500 errors.
+* ⚙️ [Railway](https://railway.app/) – Deploy full stacks in 2 clicks.
+* 🛠️ [Render](https://render.com/) – Budget Heroku replacement.
+
+---
+
+### 🌐 **DNS & Domain Stuff**
+
+* 💬 [Freenom](https://www.freenom.com/) – Free domains (*if they still exist lol*).
+* 🛡️ [Cloudflare](https://cloudflare.com) – DNS, CDN, and DDoS defense in one.
+
+---
+
+### 🌍 **Self-Hosting & Homelab Resources**
+
+* 🧃 [YunoHost](https://yunohost.org/) – Host apps from your dusty old laptop.
+* 📦 [Portainer](https://www.portainer.io/) – Docker UI for non-terminal brained folks.
+* 💿 [Plex](https://www.plex.tv/) – Netflix but you control it.
+
+---
+
+### 👩‍🚀 **Hackable Tools & Tweakables**
+
+* 🧱 [AutoHotKey](https://www.autohotkey.com/) – Script your way to productivity.
+* 🔄 [ShareX](https://getsharex.com/) – Screenshot + automation beast.
+* 🧼 [O\&O ShutUp10++](https://www.oo-software.com/en/shutup10) – Turn Windows into less of a snitch.
+
+---
+
+### 🧪 **Terminal Tools & Shell Bling**
+
+* 💄 [Starship Prompt](https://starship.rs/) – Sexy, customizable shell prompt.
+* 🧰 [fzf](https://github.com/junegunn/fzf) – Fuzzy find *everything*.
+* 📜 [bat](https://github.com/sharkdp/bat) – `cat`, but make it 🦇.
+
+---
+
+### 🧠 **Brain Juice (Dev Philosophy + Career)**
+
+* 🔮 [Refactoring Guru](https://refactoring.guru/) – Design patterns made dummy-proof.
+* 🎙️ [The Changelog](https://changelog.com/podcast) – Dev podcast for the ✨soul✨.
+* 📄 [read.cv](https://read.cv/) – Make a dev resume that doesn’t look like Word 2003 threw up.
+
+---
+
+Aight bet. We diving into **every dev’s void** — the unspoken niches that hit different. Here’s the **extended Gen Z Edition** of the *Resource Bible for Brainy Bastards™, Vol. II: The Forgotten Realms™* 💾👾🕳️
+
+---
+
+# 🧱 DEVOPS / BACKEND / API-WRANGLING WIZARDRY
+
+### ⚙️ *You like pain? Here’s backend stack stuff.*
+
+* 🐳 [Docker](https://www.docker.com/) – Run your app in a box like a responsible adult.
+* 🧪 [Postman](https://www.postman.com/) – If you test APIs without this, you’re just guessing.
+* 🌐 [NGROK](https://ngrok.com/) – Expose localhost, flex demos to clients in 2 seconds.
+* 🧱 [Railway](https://railway.app/) / [Render](https://render.com/) – Budget Heroku for broke devs.
+* 🔒 [JWT.io](https://jwt.io/) – Decode your JSON Web Tokens and cry over bad auth.
+* 🛠️ [Beeceptor](https://beeceptor.com/) – Mock API endpoints like you have a backend team.
+* 📡 [ReqBin](https://reqbin.com/) – CURL vibes, but make it GUI.
+
+---
+
+# 🧪 CLI & TERMINAL CHADS ONLY
+
+### 🧠 *Tools for those who live in the Matrix*
+
+* 🦄 [Starship Prompt](https://starship.rs/) – PS1 glow up.
+* 🔍 [fzf](https://github.com/junegunn/fzf) – Fuzzy find things you didn’t know you had.
+* 🧾 [bat](https://github.com/sharkdp/bat) – `cat` with syntax and soul.
+* 📜 [exa](https://github.com/ogham/exa) – `ls` but sexy.
+* 💾 [ripgrep](https://github.com/BurntSushi/ripgrep) – Fast grep. No regrets.
+* 🧰 [tldr](https://tldr.sh/) – When `man` pages go too hard.
+* 🔧 [btop](https://github.com/aristocratos/btop) – Task manager but anime-coded.
+* 🧠 [cheat.sh](https://cheat.sh/) – Literally type `curl cheat.sh/python/sort` and ascend.
+
+---
+
+# 🕵️‍♂️ PRIVACY / ANONYMITY (BE INVISIBLE, KING)
+
+* 🧹 [O\&O ShutUp10++](https://www.oo-software.com/en/shutup10) – Clean Windows of Microsoft's spyware dreams.
+* 🦊 [LibreWolf](https://librewolf.net/) – Firefox, but no telemetry and max privacy.
+* 👻 [Tails OS](https://tails.net/) – Live boot into incognito-mode-on-steroids.
+* 🔐 [Mullvad VPN](https://mullvad.net/) – Pay with cash, be a ghost.
+* 🧼 [Simple Web](https://simple-web.org/) – Google, but it doesn’t sell your soul.
+* 👥 [PrivacyGuides](https://www.privacyguides.org/) – Full setup from normie to Edward Snowden.
+
+---
+
+# 🔧 WINDOWS MODS / DEBLOATING / POWER TOOLS
+
+* 🧼 [WinDebloat Tools](https://github.com/Sycnex/Windows10Debloater) – Remove Candy Crush from existence.
+* 🚀 [Lively Wallpaper](https://rocksdanister.github.io/lively/) – Turn your desktop into a live TikTok.
+* 🪟 [OpenShell](https://open-shell.github.io/Open-Shell-Menu/) – Bring back old Windows Start Menu like a boomer.
+* 💻 [AutoHotKey](https://www.autohotkey.com/) – Turn your keyboard into a script wizard.
+* 🔄 [ShareX](https://getsharex.com/) – Screenshot tool that makes Snipping Tool cry.
+
+---
+
+# 🧠 LOCAL FIRST / OFFLINE FREAKS
+
+### 📴 *You hate the cloud? Based.*
+
+* 🗂️ [Zettlr](https://www.zettlr.com/) – Markdown note-taking, big brain academia vibes.
+* 📚 [Calibre](https://calibre-ebook.com/) – Offline ebook manager. Steal, sort, read.
+* 🛖 [Joplin](https://joplinapp.org/) – Evernote clone that doesn’t try to upsell you.
+* 🖼️ [ImageGlass](https://imageglass.org/) – Because Windows Photos takes 6 years to load.
+* 🎛️ [OBS Portable](https://portableapps.com/apps/music_video/obs-portable) – Record & stream anywhere, even from a library PC.
+* 🔧 [Everything Search](https://www.voidtools.com/) – Instant file search. No more “where tf is my download”.
+
+---
+
+# 👨‍🎓 LEARNING, BUT NICHE / OP SEC / RECON / HACKER STUFF
+
+* 🧠 [Hack The Box](https://www.hackthebox.com/) – Learn hacking without going to jail.
+* 🔍 [TryHackMe](https://tryhackme.com/) – Gamified cybersec training.
+* 📚 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) – Terminal gospel.
+* 🔎 [Recon-ng](https://github.com/lanmaster53/recon-ng) – Info gathering for pentesters.
+* 🦠 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) – Offensive sec cheat codes.
+* 💾 [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/) – Forensics practice with actual malware samples. Not for the faint of firewall.
+
+---
+
+# 🧬 WEB3 / CRYPTO DEV (FOR THE DGENS)
+
+* ⚒️ [Hardhat](https://hardhat.org/) – Smart contract dev framework (Ethereum).
+* 🦊 [MetaMask](https://metamask.io/) – Wallet in your browser, don’t get scammed.
+* 🧠 [Thirdweb](https://thirdweb.com/) – Plug-and-play smart contract infra.
+* 🧩 [Moralis](https://moralis.io/) – Web3 backend so you can pretend you know what you’re doing.
+* 🏛️ [Etherscan](https://etherscan.io/) – Blockchain's version of "inspect element".
+
+---
+
+# 💀 PIRACY, BACKUPS, & DIGITAL CHAOS
+
+* 💾 [Rentry Indexes](https://rentry.co) – Hidden gems, leaks, and vaults.
+* 🔗 [1337x](https://1337x.to/) / [YTS](https://yts.mx/) / [RARBG mirror](https://proxyrarbg.org/) – Torrents for movies, games, software, sanity.
+* 🦑 [Jellyfin](https://jellyfin.org/) – Self-host your media like a god.
+* 📚 [Anna’s Archive](https://annas-archive.org) – Books, papers, textbooks. All of it.
+* 📦 [Stremio + Torrentio](https://www.stremio.com) – Pirate Netflix frontend.
+
+---
+
+# 🐧 **Linux Distros (Choose Your Fighter)**
+
+* 🧙 [Arch Linux](https://archlinux.org/) – You will suffer, and you will like it.
+* 👶 [Ubuntu](https://ubuntu.com/) – Baby’s first distro, still not bad.
+* 💻 [Fedora](https://getfedora.org/) – GNOME enjoyers unite.
+* 👁️ [KDE Neon](https://neon.kde.org/) – For shiny Plasma fans.
+* 🪑 [Debian](https://www.debian.org/) – Grandpa of stability.
+* 🧊 [EndeavourOS](https://endeavouros.com/) – Arch with training wheels.
+* 🚀 [Garuda Linux](https://garudalinux.org/) – Pre-riced, flashy, and fast.
+* 🕳️ [Void Linux](https://voidlinux.org/) – For the terminal-pilled.
+* 🧱 [Alpine Linux](https://alpinelinux.org/) – 5MB distro for absolute minimalists.
+
+---
+
+# 🎨 **Ricing Tools (aka Desktop Drip)**
+
+* 🖼️ [Hyprland](https://github.com/hyprwm/Hyprland) – Wayland tiling WM for next-gen ricers.
+* 🧃 [i3-gaps](https://github.com/Airblader/i3) – The OG tiling vibe.
+* 🪞 [Waybar](https://github.com/Alexays/Waybar) – Sexy bar for Sway/Hyprland.
+* 🔠 [Nerd Fonts](https://www.nerdfonts.com/) – Icons in your terminal? yes.
+* 🎨 [pywal](https://github.com/dylanaraps/pywal) – Auto colorschemes from wallpaper.
+* 🧠 [eww](https://github.com/elkowar/eww) – Widgets for your rice, like weather, music, etc.
+* 🧱 [Gtk Theme Index](https://www.gnome-look.org/) – GTK themes galore.
+* 🪞 [Kvantum](https://github.com/tsujan/Kvantum) – QT theme engine for ultimate control.
+
+---
+
+# 🧪 **Package Managers, Repos & Term Apps**
+
+### 🧰 *Arch/Gentoo/void gang stand up*
+
+* 🔄 `paru` / `yay` – AUR helpers for Arch. `sudo pacman -Rns yay && paru instead` (trust)
+* 🧬 [Nix](https://nixos.org/) – Functional package mgmt, it’s weird and beautiful.
+* 🐍 [pipx](https://github.com/pypa/pipx) – Isolated Python CLI tools.
+* 🧠 [bpytop/btop](https://github.com/aristocratos/btop) – Like `htop`, but full of vibes.
+* 📁 [ranger](https://github.com/ranger/ranger) – Terminal file explorer, Vim-style.
+* 📜 [zoxide](https://github.com/ajeetdsouza/zoxide) – Smarter `cd`. Muscle memory speedrun.
+* 🔎 [fd](https://github.com/sharkdp/fd) – `find`, but actually usable.
+* 💬 [ncspot](https://github.com/hrkfdn/ncspot) – Spotify CLI player, TUI-coded.
+
+---
+
+# 🦻 **Audio / Pipewire / Fix Your Mic**
+
+* 🎚️ [EasyEffects](https://github.com/wwmm/easyeffects) – EQ, compressor, noise gate. RNNoise plugin support.
+* 🎧 [ALSA](https://alsa-project.org/) – Low-level audio. Scary, but real.
+* 🔌 [PipeWire](https://pipewire.org/) – PulseAudio’s better, hotter cousin.
+* 🧼 [rnnoise](https://github.com/xiph/rnnoise) – Real-time mic cleaning.
+* 🎛️ [Helvum](https://gitlab.freedesktop.org/pipewire/helvum) – Pipewire patchbay. GUI graph for your audio.
+
+---
+
+# 🧠 **Terminal UI Tools You Shouldn't Live Without**
+
+* 🧠 `btm` – Bottom. Sexy terminal task monitor.
+* 📦 `nala` – Apt wrapper that actually looks nice.
+* 🧰 `pfetch/neofetch/uwufetch/macchina` – System info fetch tools for showing off.
+* 🗃️ `vifm` – Vim-style file manager.
+* 🔎 `dua` – Disk usage analyzer that doesn’t suck.
+
+---
+
+# 🌍 **Self-Hosting / Local King Energy**
+
+* 🧃 [YunoHost](https://yunohost.org/) – Set up your own Google Workspace.
+* 🧬 [Portainer](https://www.portainer.io/) – GUI Docker manager.
+* 💿 [Plex](https://www.plex.tv/) / [Jellyfin](https://jellyfin.org/) – Self-hosted Netflix, ad-free life.
+* 📥 [qBittorrent-nox](https://www.qbittorrent.org/download.php) – Headless torrenting, baby.
+* 🔒 [Vaultwarden](https://github.com/dani-garcia/vaultwarden) – Self-hosted Bitwarden clone.
+* 📡 [Pihole](https://pi-hole.net/) – Whole network ad-blocking. Bye ads, forever.
+
+---
+
+# 💀 **Anti-Telemetry, Minimal, Libre-Only Tools**
+
+* 🧠 [LibreWolf](https://librewolf.net/) – Fork of Firefox with all the privacy presets.
+* ⛓️ [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) – Chrome minus Google’s love letters.
+* 🔍 [Search Engines That Don’t Track You](https://searx.space/) – Try SearXNG, Whoogle, etc.
+* 🧩 [OpenSnitch](https://github.com/evilsocket/opensnitch) – Little Snitch, but for Linux.
+
+---
+
+# 🧠 **Linux Nerd Heaven (Learning/Docs/DIY)**
+
+* 📖 [ArchWiki](https://wiki.archlinux.org/) – Like a Linux Bible. Can fix your soul.
+* 💀 [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page) – Honestly underrated.
+* 🐧 [DistroWatch](https://distrowatch.com/) – Find a new Linux distro like it’s a Tinder match.
+* 📜 [Linux Journey](https://linuxjourney.com/) – Intro to Linux, level up fast.
+* 🔧 [Linux From Scratch](https://www.linuxfromscratch.org/) – Build a distro from source. Peak masochism.
+* 🧙 [Luke Smith's Guide](https://lukesmith.xyz/) – Terminal chad takes you on a no-bloat pilgrimage.
+* 🖥️ [Vanilla OS](https://vanillaos.org/) – New hotness. Immutable + apt + Distrobox = 🤯
+
+---
+
+# 💣 BONUS: Hidden Niche Tools for Hardcore Nerds
+
+* 🧠 [`wttr.in`](https://wttr.in) – Weather in your terminal.
+* 📺 [`tiv`](https://github.com/stefanhaustein/TerminalImageViewer) – View images in terminal like a wizard.
+* 🧃 [`glow`](https://github.com/charmbracelet/glow) – Markdown reader in TUI.
+* 💅 [`gum`](https://github.com/charmbracelet/gum) – Make sexy interactive shell scripts.
+* 🧱 [`broot`](https://github.com/Canop/broot) – Tree-based file navigation.
+* 🪞 [`swww`](https://github.com/LionyxML/swww) – Wallpaper changer for Wayland (Hyprland/Sway).
+
+Ahhh, I see what you mean now — you want **directories or hubs that collect PPAs/repos/package indexes** in one place. Basically a **linked list of package sources** across distros. Gotchu. Here's the ultimate cheat sheet of **package source hubs** grouped by type:
+
+---
+
+## 📦 **Universal Package Index Hubs**
+
+| 🔍 Purpose                 | 🌐 URL                                                                       |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| Arch Linux Package DB      | [https://archlinux.org/packages/](https://archlinux.org/packages/)           |
+| AUR (Arch User Repository) | [https://aur.archlinux.org/](https://aur.archlinux.org/)                     |
+| Debian Package Tracker     | [https://tracker.debian.org/](https://tracker.debian.org/)                   |
+| Ubuntu Launchpad (PPAs)    | [https://launchpad.net/ubuntu/+ppas](https://launchpad.net/ubuntu/+ppas)     |
+| Ubuntu Packages            | [https://packages.ubuntu.com/](https://packages.ubuntu.com/)                 |
+| Fedora Packages            | [https://packages.fedoraproject.org/](https://packages.fedoraproject.org/)   |
+| OpenSUSE Software          | [https://software.opensuse.org/](https://software.opensuse.org/)             |
+| Gentoo Packages            | [https://packages.gentoo.org/](https://packages.gentoo.org/)                 |
+| Nix Package Search         | [https://search.nixos.org/packages](https://search.nixos.org/packages)       |
+| Void Linux Packages        | [https://alpha.de.repo.voidlinux.org/](https://alpha.de.repo.voidlinux.org/) |
+| Flatpak Flathub            | [https://flathub.org/apps](https://flathub.org/apps)                         |
+| Snap Store                 | [https://snapcraft.io/store](https://snapcraft.io/store)                     |
+| AppImageHub                | [https://appimage.github.io/apps/](https://appimage.github.io/apps/)         |
+
+---
+
+## 🧪 **AUR Mirrors / Helpers**
+
+| ⚙️ Tool                         | 🌐 URL                                                                     |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| AURWeb (Official)               | [https://aur.archlinux.org/](https://aur.archlinux.org/)                   |
+| AUR package search mirror       | [https://aur.archlinux.org/packages/](https://aur.archlinux.org/packages/) |
+| Chaotic AUR (prebuilt binaries) | [https://aur.chaotic.cx/](https://aur.chaotic.cx/)                         |
+| Paru (AUR helper)               | [https://github.com/Morganamilo/paru](https://github.com/Morganamilo/paru) |
+| Yay (AUR helper)                | [https://github.com/Jguer/yay](https://github.com/Jguer/yay)               |
+
+---
+
+## 🧱 **PPA & Ubuntu Repo Mirrors**
+
+| 📦 PPA Hubs                               | 🌐 URL                                                                                       |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Launchpad PPA Directory                   | [https://launchpad.net/ubuntu/+ppas](https://launchpad.net/ubuntu/+ppas)                     |
+| Launchpad Users List (search by dev)      | [https://launchpad.net/people](https://launchpad.net/people)                                 |
+| Ubuntu Mirror List                        | [https://launchpad.net/ubuntu/+archivemirrors](https://launchpad.net/ubuntu/+archivemirrors) |
+| GetDeb (legacy, archived)                 | [https://www.getdeb.net/](https://www.getdeb.net/)                                           |
+| WebUpd8 PPAs (archived, use with caution) | [https://launchpad.net/\~webupd8team](https://launchpad.net/~webupd8team)                    |
+
+---
+
+## 🔄 **Flatpak/Snap/AppImage Search Engines**
+
+| 🔍 Tool                        | 🌐 URL                                                               |
+| ------------------------------ | -------------------------------------------------------------------- |
+| Flatpak App Search             | [https://flathub.org/apps](https://flathub.org/apps)                 |
+| Snapcraft Apps                 | [https://snapcraft.io/store](https://snapcraft.io/store)             |
+| AppImageHub (search AppImages) | [https://appimage.github.io/apps/](https://appimage.github.io/apps/) |
+| Linux AppImage Directory       | [https://www.appimagehub.com/](https://www.appimagehub.com/)         |
+
+---
+
+## 🧰 **Other Cool Package Search Tools**
+
+| 🧠 Tool                                     | 🌐 URL                                                                                                                               |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Repology (meta repo indexer)                | [https://repology.org/](https://repology.org/) → *best all-in-one view of versions across distros*                                   |
+| pkgs.org (all distro packages in one place) | [https://pkgs.org/](https://pkgs.org/)                                                                                               |
+| Software Boutique (Ubuntu MATE curated)     | [https://ubuntu-mate.community/t/software-boutique-app-list/23604](https://ubuntu-mate.community/t/software-boutique-app-list/23604) |
+| Guix Packages (GNU Guix ecosystem)          | [https://packages.guix.gnu.org/](https://packages.guix.gnu.org/)                                                                     |
+
+---
+
+## ⚠️ Want me to format this into a `.md` or offline `.txt` cheatlist?
+
+I can also build you:
+
+* 🧩 Script to search across multiple distros
+* 🧰 Custom script to batch add PPAs you trust
+* 🔒 FOSS-only repo list (Libre + non-telemetry)
