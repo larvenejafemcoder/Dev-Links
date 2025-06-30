@@ -343,19 +343,6 @@ Aight bet. We diving into **every dev’s void** — the unspoken niches that hi
 
 ---
 
-# 🎨 **Ricing Tools (aka Desktop Drip)**
-
-* 🖼️ [Hyprland](https://github.com/hyprwm/Hyprland) – Wayland tiling WM for next-gen ricers.
-* 🧃 [i3-gaps](https://github.com/Airblader/i3) – The OG tiling vibe.
-* 🪞 [Waybar](https://github.com/Alexays/Waybar) – Sexy bar for Sway/Hyprland.
-* 🔠 [Nerd Fonts](https://www.nerdfonts.com/) – Icons in your terminal? yes.
-* 🎨 [pywal](https://github.com/dylanaraps/pywal) – Auto colorschemes from wallpaper.
-* 🧠 [eww](https://github.com/elkowar/eww) – Widgets for your rice, like weather, music, etc.
-* 🧱 [Gtk Theme Index](https://www.gnome-look.org/) – GTK themes galore.
-* 🪞 [Kvantum](https://github.com/tsujan/Kvantum) – QT theme engine for ultimate control.
-
----
-
 # 🧪 **Package Managers, Repos & Term Apps**
 
 ### 🧰 *Arch/Gentoo/void gang stand up*
@@ -583,5 +570,316 @@ Ah, you want **links to every “reading cloud” — sites that store or index 
 | **Sci-Hub Mirror List**                       | [https://sci-hub.now.sh/](https://sci-hub.now.sh/) *(mirror redirect)*         |
 
 ---
+Sweet — we’ll prep a **VM testing lab + WM customization kit** that works on Ubuntu with NVIDIA in mind.
 
+Here’s a mini roadmap for you:
+
+---
+
+## 🧪 VIRTUAL MACHINE LAB (Test OSes, Networks, Hacky Stuff)
+
+### 🔧 **Recommended Hypervisor:**
+
+| Hypervisor                                                                              | Why Use It                                  |
+| --------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 🐧 [VirtualBox](https://www.virtualbox.org/)                                            | easiest, cross-platform, supports snapshots |
+| 🛸 [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) | better performance, USB passthrough         |
+| 💣 [QEMU + Virt-Manager](https://virt-manager.org/)                                     | native, fastest, best for Linux power users |
+
+> ❗ Avoid Hackintosh inside VM if using NVIDIA — it’s either AMD or Intel iGPU only. You can still test macOS with **OpenCore VMs** though.
+
+---
+
+### 🧰 **Tools to Try Inside VMs:**
+
+* 🧪 [Kali Linux](https://www.kali.org/) – all pentest tools
+* 📡 [Parrot OS Security](https://parrotsec.org/) – Kali but lighter
+* 🦠 [REMnux](https://remnux.org/) – malware/reversing distro
+* 🧠 [CyberSecLabs VMs](https://www.cyberseclabs.co.uk/)
+* 💻 [Win10 VMs](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/) – legit test environments from Microsoft
+* 🍏 [macOS Ventura VM w/ OpenCore](https://github.com/kholia/OSX-KVM) – if you switch to AMD GPU later
+* 🧪 [Mininet](https://mininet.org/) – lightweight SDN/network test VM
+
+---
+
+# 🧠💻 Ricing with NVIDIA: What *Actually* Works (No Cope Edition)
+
+Because we love pretty desktops — but we also have cursed NVIDIA GPUs 😤.
+
+---
+
+## ✅ X11-Based WMs That Don’t Break (Tested & Chill)
+
+These are stable af on NVIDIA — no voodoo configs needed:
+
+| 🖥️ WM Name            | 💬 Why It Slaps                           |
+| ---------------------- | ----------------------------------------- |
+| 🧃 `i3-gaps`           | Stable, easy to rice, keyboard-first gang |
+| 🧱 `bspwm`             | Ultra-minimal, fully scriptable           |
+| 🧙 `awesomewm`         | Lua-coded chaos, fully themeable          |
+| 🪟 `xfwm4` / `openbox` | Chill fallback if RAM or patience is low  |
+
+> 🔌 These all run on **X11** — which NVIDIA’s proprietary drivers still prefer.
+
+---
+
+## 🚧 Wayland Woes (aka Hyprland on NVIDIA)
+
+| ❌ WM         | ⚠️ What Breaks / Why It’s Mid                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖼️ `Hyprland` | - Requires bleeding-edge drivers + kernel params <br> - Screen sharing? Nope. <br> - Random crashes? Yep. <br> - You vs. config bugs: the eternal battle |
+
+> 💥 Basically: looks hot, runs cold (unless you’re masochist or AMD gang).
+
+---
+
+## 🧠 TL;DR — What Should You Use?
+
+> 🎯 **Stick with `i3-gaps` or `awesomewm` on Ubuntu with NVIDIA.**  
+> They're battle-tested, rices beautifully, and won’t crash your soul.
+
+---
+
+## 🛠️ Want Me to Drop a Setup Script That Installs:
+
+- 🧃 `i3-gaps`
+- 🌫️ `picom` (blur/transparency)
+- 🚀 `rofi` (fuzzy launcher)
+- 🔠 Nerd Fonts
+- 🌄 `feh` or `nitrogen` for wallpapers
+- ⚙️ Pre-made keybinds + themes
+
+Just say: **`rice me bro`**  
+And I’ll yeet the whole config kit right at you. Ready to flex.
+
+---
+
+## 🎨✨ Desktop Drip: Ricing Tools That Go Hard
+
+| Tool          | Use Case                                               |
+| ------------- | ------------------------------------------------------ |
+| 🖼️ Hyprland  | Wayland WM (only if you drop NVIDIA)                   |
+| 🧃 i3-gaps    | X11 tiling WM with gaps                                |
+| 🪞 Waybar     | Sexy status bar for Sway/Hypr setups                   |
+| 🔠 Nerd Fonts | Patched fonts w/ icons for terminal flex               |
+| 🎨 pywal      | Auto-theme based on your wallpaper                     |
+| 🧠 eww        | Desktop widgets that look damn good                    |
+| 🧱 GTK Themes | Grab from [gnome-look.org](https://www.gnome-look.org) |
+| 🪞 Kvantum    | QT theme engine for dark/light vibes                   |
+
+---
+
+## 💻 WM Matrix (for Ubuntu + NVIDIA Users)
+
+| WM          | Type      | Notes                          |
+| ----------- | --------- | ------------------------------ |
+| `i3-gaps`   | Tiling    | Easiest to rice & config       |
+| `bspwm`     | Tiling    | Less noob-friendly, ultra fast |
+| `awesomewm` | Lua-based | Theme playground for nerds     |
+| `openbox`   | Floating  | Lightweight fallback mode      |
+| `hyprland`  | Wayland   | Pretty... but buggy on NVIDIA  |
+
+---
+
+> 🧪 Want to test all these in VMs first? I got a VM-friendly ricing ISO plan too.
+
+---
+
+# 🧱💥 Desktop Environments & Window Managers (for Ubuntu / Arch / Debian / Fedora / etc.)
+
+## 🧠 Full Desktop Environments (DEs)
+
+These come with everything — panels, settings, file manager, session manager, etc.
+
+| DE Name           | Type     | Notes                                            |
+| ----------------- | -------- | ------------------------------------------------ |
+| 🧼 **GNOME**      | Floating | Modern, clean, but kinda bloated by default      |
+| 🪟 **KDE Plasma** | Floating | Lightweight-ish now, super customizable          |
+| 🪑 **XFCE**       | Floating | Fast, stable, classic                            |
+| 🚀 **LXQt**       | Floating | Minimal QT-based XFCE alternative                |
+| 🍃 **Cinnamon**   | Floating | Mint's DE, friendly for Windows converts         |
+| 🪞 **MATE**       | Floating | Old GNOME 2 style, retro but usable              |
+| 🧊 **Budgie**     | Floating | Sleek & clean, needs fewer extensions than GNOME |
+
+---
+
+## 💻 Standalone Window Managers (Can Use With or Without DE)
+
+> 🧩 These don’t include panels or menus by default — rice them your way.
+
+| WM Name                  | Style           | Notes                                        |
+| ------------------------ | --------------- | -------------------------------------------- |
+| 🧃 `i3` / `i3-gaps`      | Tiling          | The OG tiler, well documented                |
+| 🧱 `bspwm`               | Tiling          | Scriptable with `sxhkd`, no built-in bar     |
+| 🔁 `qtile`               | Tiling          | Python-configurable WM                       |
+| 🔄 `dwm`                 | Tiling          | Suckless, ultra minimal, you compile configs |
+| 🔧 `xmonad`              | Tiling          | Haskell-based, great if you’re a masochist   |
+| 🖼️ `Hyprland`           | Tiling          | Wayland, flashy, not fully NVIDIA-friendly   |
+| 🌀 `sway`                | Tiling          | i3-compatible Wayland WM                     |
+| 🧙 `awesomewm`           | Tiling/Floating | Lua-based, very configurable                 |
+| 🐧 `herbstluftwm`        | Tiling          | Manual tiling, scriptable                    |
+| 🎨 `pekwm`               | Tiling          | Lightweight + themeable                      |
+| 🪟 `openbox`             | Floating        | Lightweight, works as fallback or base WM    |
+| 🧱 `fluxbox`             | Floating        | Minimal + oldschool                          |
+| 🪞 `icewm`               | Floating        | Windows 9x-style, for low-end machines       |
+| 🧼 `hlwm` (herbstluftwm) | Tiling          | Manual layout control — grid precision vibes |
+| 🕹️ `ratpoison`          | Tiling          | Keyboard-only, ultra minimal                 |
+| 📐 `wmii`                | Tiling          | Dynamic tiling (like i3) but older           |
+| 💣 `notion`              | Tiling          | Heavily-modified fork of ion3                |
+
+---
+
+| Combo                     | Why Use It                        |
+Absolutely! Here's the **fully formatted Markdown text** of your NVIDIA-safe ricing and WM/DE breakdown — perfect for saving as `ricing-nvidia.md`, using in Obsidian, or pasting to GitHub:
+
+````markdown
+# 🧠💻 Ricing with NVIDIA: What *Actually* Works (No Cope Edition)
+
+Because we love pretty desktops — but we also have cursed NVIDIA GPUs 😤.
+
+---
+
+## ✅ X11-Based WMs That Don’t Break (Tested & Chill)
+
+These are stable af on NVIDIA — no voodoo configs needed:
+
+| 🖥️ WM Name            | 💬 Why It Slaps                           |
+| ---------------------- | ----------------------------------------- |
+| 🧃 `i3-gaps`           | Stable, easy to rice, keyboard-first gang |
+| 🧱 `bspwm`             | Ultra-minimal, fully scriptable           |
+| 🧙 `awesomewm`         | Lua-coded chaos, fully themeable          |
+| 🪟 `xfwm4` / `openbox` | Chill fallback if RAM or patience is low  |
+
+> 🔌 These all run on **X11** — which NVIDIA’s proprietary drivers still prefer.
+
+---
+
+## 🚧 Wayland Woes (aka Hyprland on NVIDIA)
+
+| ❌ WM         | ⚠️ What Breaks / Why It’s Mid                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🖼️ `Hyprland` | - Requires bleeding-edge drivers + kernel params <br> - Screen sharing? Nope. <br> - Random crashes? Yep. <br> - You vs. config bugs: the eternal battle |
+
+> 💥 Basically: looks hot, runs cold (unless you’re masochist or AMD gang).
+
+---
+
+## 🧠 TL;DR — What Should You Use?
+
+> 🎯 **Stick with `i3-gaps` or `awesomewm` on Ubuntu with NVIDIA.**  
+> They're battle-tested, rices beautifully, and won’t crash your soul.
+
+---
+
+## 🛠️ Want Me to Drop a Setup Script That Installs:
+
+- 🧃 `i3-gaps`
+- 🌫️ `picom` (blur/transparency)
+- 🚀 `rofi` (fuzzy launcher)
+- 🔠 Nerd Fonts
+- 🌄 `feh` or `nitrogen` for wallpapers
+- ⚙️ Pre-made keybinds + themes
+
+Just say: **`rice me bro`**  
+And I’ll yeet the whole config kit right at you. Ready to flex.
+
+---
+
+## 🎨✨ Desktop Drip: Ricing Tools That Go Hard
+
+| Tool          | Use Case                                               |
+| ------------- | ------------------------------------------------------ |
+| 🖼️ Hyprland  | Wayland WM (only if you drop NVIDIA)                   |
+| 🧃 i3-gaps    | X11 tiling WM with gaps                                |
+| 🪞 Waybar     | Sexy status bar for Sway/Hypr setups                   |
+| 🔠 Nerd Fonts | Patched fonts w/ icons for terminal flex               |
+| 🎨 pywal      | Auto-theme based on your wallpaper                     |
+| 🧠 eww        | Desktop widgets that look damn good                    |
+| 🧱 GTK Themes | Grab from [gnome-look.org](https://www.gnome-look.org) |
+| 🪞 Kvantum    | QT theme engine for dark/light vibes                   |
+
+---
+
+## 💻 WM Matrix (for Ubuntu + NVIDIA Users)
+
+| WM          | Type      | Notes                          |
+| ----------- | --------- | ------------------------------ |
+| `i3-gaps`   | Tiling    | Easiest to rice & config       |
+| `bspwm`     | Tiling    | Less noob-friendly, ultra fast |
+| `awesomewm` | Lua-based | Theme playground for nerds     |
+| `openbox`   | Floating  | Lightweight fallback mode      |
+| `hyprland`  | Wayland   | Pretty... but buggy on NVIDIA  |
+
+---
+
+> 🧪 Want to test all these in VMs first? I got a VM-friendly ricing ISO plan too.
+
+---
+
+# 🧱💥 Desktop Environments & Window Managers (for Ubuntu / Arch / Debian / Fedora / etc.)
+
+## 🧠 Full Desktop Environments (DEs)
+
+These come with everything — panels, settings, file manager, session manager, etc.
+
+| DE Name           | Type     | Notes                                            |
+| ----------------- | -------- | ------------------------------------------------ |
+| 🧼 **GNOME**      | Floating | Modern, clean, but kinda bloated by default      |
+| 🪟 **KDE Plasma** | Floating | Lightweight-ish now, super customizable          |
+| 🪑 **XFCE**       | Floating | Fast, stable, classic                            |
+| 🚀 **LXQt**       | Floating | Minimal QT-based XFCE alternative                |
+| 🍃 **Cinnamon**   | Floating | Mint's DE, friendly for Windows converts         |
+| 🪞 **MATE**       | Floating | Old GNOME 2 style, retro but usable              |
+| 🧊 **Budgie**     | Floating | Sleek & clean, needs fewer extensions than GNOME |
+
+---
+
+## 💻 Standalone Window Managers (Can Use With or Without DE)
+
+> 🧩 These don’t include panels or menus by default — rice them your way.
+
+| WM Name                  | Style           | Notes                                        |
+| ------------------------ | --------------- | -------------------------------------------- |
+| 🧃 `i3` / `i3-gaps`      | Tiling          | The OG tiler, well documented                |
+| 🧱 `bspwm`               | Tiling          | Scriptable with `sxhkd`, no built-in bar     |
+| 🔁 `qtile`               | Tiling          | Python-configurable WM                       |
+| 🔄 `dwm`                 | Tiling          | Suckless, ultra minimal, you compile configs |
+| 🔧 `xmonad`              | Tiling          | Haskell-based, great if you’re a masochist   |
+| 🖼️ `Hyprland`           | Tiling          | Wayland, flashy, not fully NVIDIA-friendly   |
+| 🌀 `sway`                | Tiling          | i3-compatible Wayland WM                     |
+| 🧙 `awesomewm`           | Tiling/Floating | Lua-based, very configurable                 |
+| 🐧 `herbstluftwm`        | Tiling          | Manual tiling, scriptable                    |
+| 🎨 `pekwm`               | Tiling          | Lightweight + themeable                      |
+| 🪟 `openbox`             | Floating        | Lightweight, works as fallback or base WM    |
+| 🧱 `fluxbox`             | Floating        | Minimal + oldschool                          |
+| 🪞 `icewm`               | Floating        | Windows 9x-style, for low-end machines       |
+| 🧼 `hlwm` (herbstluftwm) | Tiling          | Manual layout control — grid precision vibes |
+| 🕹️ `ratpoison`          | Tiling          | Keyboard-only, ultra minimal                 |
+| 📐 `wmii`                | Tiling          | Dynamic tiling (like i3) but older           |
+| 💣 `notion`              | Tiling          | Heavily-modified fork of ion3                |
+
+---
+
+## 📦 Install (APT-based distros)
+
+```bash
+# Examples
+sudo apt install i3 i3blocks i3lock feh picom
+sudo apt install bspwm sxhkd rofi polybar
+sudo apt install awesome
+sudo apt install openbox obconf
+````
+
+> Want a mega script that lets you pick & install WM/DE combos and pre-rice them? I can make a `bash` or `YAD` selector too.
+
+---
+
+## ✅ Recommended Combos (NVIDIA Safe)
+
+| Combo                     | Why Use It                        |
+| ------------------------- | --------------------------------- |
+| `i3-gaps + XFCE`          | Minimal, stable, fast AF          |
+| `awesomewm + LXQt`        | Slick and scriptable              |
+| `bspwm + GNOME Flashback` | Tiling + session manager fallback |
+| `openbox + tint2`         | Floating WM with panel support    |
 
