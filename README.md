@@ -1,5 +1,3 @@
-Here’s your mega Markdown resource list rebranded for max Gen Z chaos, dopamine scroll energy, and straight-to-the-point vibes — perfect for the attention-span-challenged developer with 99 tabs open:
-
 ---
 
 # 🎨✨ *Make It Pretty, Babe* (Design & UI Vibes)
