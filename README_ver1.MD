@@ -484,3 +484,8 @@ Window managers and desktop environments for customization addicts.
 - `awesomewm + LXQt` – Scriptable beauty with lightweight base
 - `bspwm + GNOME Flashback` – Tiling with fallback for when things break
 - `openbox + tint2`
+
+
+
+---
+https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/lecture-notes/
