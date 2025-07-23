@@ -489,3 +489,4 @@ Window managers and desktop environments for customization addicts.
 
 ---
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/lecture-notes/
+https://annas-archive.org/scidb
