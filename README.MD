@@ -489,4 +489,27 @@ Window managers and desktop environments for customization addicts.
 
 ---
 https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/lecture-notes/
-https://annas-archive.org/scidb
+
+## 📚 Learning Resources
+
+| Name / Desc                          | Link                                                                             |
+| ------------------------------------ | -------------------------------------------------------------------------------- |
+| 📖 Tài liệu HUST (Đại học Bách Khoa) | [tailieuhust.com](https://tailieuhust.com/)                                      |
+| 🧠 Tài liệu ôn thi tổng hợp          | [tailieuonthi.org](https://tailieuonthi.org/pdf-sach-tong-on-toan-hoc-moon-moi/) |
+| 🎓 Download Free Courses             | [downloadfreecourse.com](https://downloadfreecourse.com/)                        |
+| 📚 Ebook Hunter                      | [ebook-hunter.org](https://ebook-hunter.org/)                                    |
+| 🌐 Anna's Archive (ebooks galore)    | [annas-archive.li](https://annas-archive.li/)                                    |
+| 🎥 TikTok Study Tips Clip            | [TikTok](https://vm.tiktok.com/ZSS1FfVbT/)                                       |
+
+---
+
+## 🗂️ Google Drive Folders
+
+| Description (if known) | Link                                                                                         |
+| ---------------------- | -------------------------------------------------------------------------------------------- |
+| 📁 Drive Folder 1      | [Link](https://drive.google.com/drive/folders/1ikPpxzX7S1Rt-TGhR4QgcC1z5K29kqZi?usp=sharing) |
+| 📁 Drive Folder 2      | [Link](https://drive.google.com/drive/folders/1mOq6M5qw4SuHLsEp6kCHoSA-ErmJJ01c?usp=sharing) |
+| 📁 Drive Folder 3      | [Link](https://drive.google.com/drive/folders/1X4wj12UxuflktRAwJY1-5vUIsHlPJYA4?usp=sharing) |
+| 📁 Drive Folder 4      | [Link](https://drive.google.com/drive/folders/19tM2_Nnu6Our0sIBVr-QLEKcevcSHk3K?usp=sharing) |
+| 📁 Drive Folder 5      | [Link](https://drive.google.com/drive/folders/13Om8VDTRPZtuJvX5u5NY2yxl3YOiz5Ai?usp=sharing) |
+| 📁 Drive Folder 6      | [Link](https://drive.google.com/drive/folders/13nN0E36111I3wZPOODsS7aDPWXAfMYY2?usp=sharing) |
