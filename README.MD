@@ -541,3 +541,6 @@ Window managers and desktop environments for Linux.
 **YouTube**: Fireship, ThePrimeagen, Code Report  
 **RSS**: Use [Feedly](https://feedly.com) to aggregate developer blogs  
 **Communities**: [Stack Overflow](https://stackoverflow.com/), [Indie Hackers](https://www.indiehackers.com/)
+
+
+https://medium.com/
