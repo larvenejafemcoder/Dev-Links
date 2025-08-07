@@ -544,3 +544,7 @@ Window managers and desktop environments for Linux.
 
 
 https://medium.com/
+Rust
+https://doc.rust-lang.org/book/
+https://exercism.org/tracks/rust
+https://nyarchlinux.moe/
