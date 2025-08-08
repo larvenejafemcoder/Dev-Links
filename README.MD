@@ -474,6 +474,4 @@ A comprehensive, organized collection of tools, resources, and platforms for dev
 | System Monitor | btop | Task Manager | btop |
 | File Manager | ranger | File Explorer | VS Code |
 
----
-
-*Last updated: August 2025*
+https://hackmyvm.eu/
