@@ -550,3 +550,13 @@ https://exercism.org/tracks/rust
 https://nyarchlinux.moe/
 https://hackviser.com/
 https://icedrive.net/
+https://slack.com/
+https://tailieumontoan.com/tai-lieu-toan-lop-12-1
+https://toanmath.com/tra-cuu-cong-thuc-toan
+https://vndoc.com/dgnl-quoc-gia-ho-chi-minh
+https://drive.google.com/drive/folders/1ikPpxzX7S1Rt-TGhR4QgcC1z5K29kqZi?usp=sharing
+https://drive.google.com/drive/folders/1mOq6M5qw4SuHLsEp6kCHoSA-ErmJJ01c?usp=sharing
+https://drive.google.com/drive/folders/1X4wj12UxuflktRAwJY1-5vUIsHlPJYA4?usp=sharing
+https://drive.google.com/drive/folders/19tM2_Nnu6Our0sIBVr-QLEKcevcSHk3K?usp=sharing
+https://drive.google.com/drive/folders/13Om8VDTRPZtuJvX5u5NY2yxl3YOiz5Ai?usp=sharing
+https://drive.google.com/drive/folders/13nN0E36111I3wZPOODsS7aDPWXAfMYY2?usp=sharing
