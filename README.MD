@@ -475,3 +475,6 @@ A comprehensive, organized collection of tools, resources, and platforms for dev
 | File Manager | ranger | File Explorer | VS Code |
 
 https://hackmyvm.eu/
+https://scoop.sh/
+https://chocolatey.org/
+https://packages.msys2.org/queue
