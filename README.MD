@@ -478,3 +478,4 @@ https://hackmyvm.eu/
 https://scoop.sh/
 https://chocolatey.org/
 https://packages.msys2.org/queue
+https://www.hackthebox.com/
