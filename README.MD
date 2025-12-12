@@ -474,8 +474,10 @@ A comprehensive, organized collection of tools, resources, and platforms for dev
 | System Monitor | btop | Task Manager | btop |
 | File Manager | ranger | File Explorer | VS Code |
 
-https://hackmyvm.eu/
-https://scoop.sh/
-https://chocolatey.org/
-https://packages.msys2.org/queue
-https://www.hackthebox.com/
+| Name | URL | Description/Category |
+|------|-----|---------------------|
+| HackMyVM | https://hackmyvm.eu/ | Cybersecurity practice platform (VM challenges) |
+| Scoop | https://scoop.sh/ | Windows command-line installer (package manager) |
+| Chocolatey | https://chocolatey.org/ | Windows package manager |
+| MSYS2 Packages | https://packages.msys2.org/queue | Package repository for MSYS2 (Unix tools on Windows) |
+| Hack The Box | https://www.hackthebox.com/ | Cybersecurity training and penetration testing platform |
