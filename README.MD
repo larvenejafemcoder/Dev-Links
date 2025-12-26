@@ -481,4 +481,4 @@ A comprehensive, organized collection of tools, resources, and platforms for dev
 | Chocolatey | https://chocolatey.org/ | Windows package manager |
 | MSYS2 Packages | https://packages.msys2.org/queue | Package repository for MSYS2 (Unix tools on Windows) |
 | Hack The Box | https://www.hackthebox.com/ | Cybersecurity training and penetration testing platform |
-https://drive.google.com/drive/folders/19EmzZ8hu1TW4ZOKgGnImY9fRB-VJF0NM?usp=drive_link
+https://drive.google.com/drive/folders/19EmzZ8hu1TW4ZOKgGnImY9fRB-VJF0NM?usp=drive_link | https://drive.google.com/drive/folders/10ITTlX0OXAqYFrgtCuK-Qqc8YTkUups8 |
