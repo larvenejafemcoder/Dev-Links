@@ -482,3 +482,93 @@ A comprehensive, organized collection of tools, resources, and platforms for dev
 | MSYS2 Packages | https://packages.msys2.org/queue | Package repository for MSYS2 (Unix tools on Windows) |
 | Hack The Box | https://www.hackthebox.com/ | Cybersecurity training and penetration testing platform |
 https://drive.google.com/drive/folders/19EmzZ8hu1TW4ZOKgGnImY9fRB-VJF0NM?usp=drive_link | https://drive.google.com/drive/folders/10ITTlX0OXAqYFrgtCuK-Qqc8YTkUups8 |
+---
+
+🧠 Web3 (FOSS) for Engineers — Markdown Table
+
+⛓️ Blockchains & Core Protocols (Open Specs / OSS Clients)
+
+| Name | Focus | License / Openness | Link |
+|-----|------|-------------------|------|
+| Ethereum | Smart contracts (EVM) | Open protocol, OSS clients | https://ethereum.org |
+| Geth | Ethereum execution client | LGPL-3.0 | https://geth.ethereum.org |
+| Nethermind | Ethereum client (.NET) | LGPL-3.0 | https://nethermind.io |
+| Erigon | High-performance ETH client | LGPL-3.0 | https://github.com/ledgerwatch/erigon |
+| Solana | High-throughput L1 | Apache-2.0 | https://solana.com |
+| Cosmos SDK | Modular blockchain framework | Apache-2.0 | https://cosmos.network |
+| Substrate | Blockchain framework (Polkadot) | Apache-2.0 | https://substrate.io |
+
+
+---
+
+🛠️ Smart Contract Dev Tooling (Real Engineer Stuff)
+
+| Name | Purpose | License | Link |
+|-----|--------|---------|------|
+| Foundry | Solidity toolkit (forge, cast) | Apache-2.0 | https://book.getfoundry.sh |
+| Hardhat | ETH dev environment | MIT | https://hardhat.org |
+| Brownie | Python-based ETH framework | MIT | https://eth-brownie.readthedocs.io |
+| Solc | Solidity compiler | GPL-3.0 | https://github.com/ethereum/solidity |
+| Vyper | Pythonic smart contract language | Apache-2.0 | https://vyperlang.org |
+
+
+---
+
+🔍 Blockchain Analysis / Reverse / Debugging
+
+| Name | Purpose | License | Link |
+|-----|--------|---------|------|
+| Etherscan | Chain explorer (partial OSS) | Open APIs | https://etherscan.io |
+| Otterscan | Local ETH block explorer | MIT | https://github.com/otterscan/otterscan |
+| Tenderly | Debugging & tracing | Partial OSS | https://tenderly.co |
+| Dune | SQL-based on-chain analytics | Open queries | https://dune.com |
+
+
+---
+
+📦 Storage / Networking (Decentralized, FOSS-core)
+
+| Name | Purpose | License | Link |
+|-----|--------|---------|------|
+| IPFS | Content-addressed storage | MIT / Apache | https://ipfs.tech |
+| go-ipfs | IPFS reference implementation | MIT | https://github.com/ipfs/kubo |
+| Filecoin | Incentivized storage | Apache-2.0 | https://filecoin.io |
+| libp2p | P2P networking stack | MIT | https://libp2p.io |
+
+
+---
+
+🔐 Privacy / Identity (Protocol-level, not Web2 cosplay)
+
+| Name | Purpose | License | Link |
+|-----|--------|---------|------|
+| ENS | Decentralized naming | Apache-2.0 | https://ens.domains |
+| Ceramic | Decentralized data streams | Apache-2.0 | https://ceramic.network |
+| DID (W3C) | Decentralized identity standard | Open spec | https://www.w3.org/TR/did-core/ |
+| SpruceID | Self-sovereign identity | Apache-2.0 | https://www.spruceid.com |
+
+
+---
+
+🧪 Security / Auditing / Exploit Learning (Your RE arc 👀)
+
+| Name | Focus | License | Link |
+|-----|------|---------|------|
+| Slither | Solidity static analysis | AGPL-3.0 | https://github.com/crytic/slither |
+| Mythril | Smart contract security | GPL-3.0 | https://github.com/ConsenSys/mythril |
+| Echidna | Smart contract fuzzer | AGPL-3.0 | https://github.com/crytic/echidna |
+| Foundry Fuzzing | Built-in fuzz testing | Apache-2.0 | https://book.getfoundry.sh |
+
+
+---
+
+📚 Learning (Engineer-grade, not “buy my NFT”)
+
+| Name | Focus | License | Link |
+|-----|------|---------|------|
+| Ethernaut | Solidity security wargame | MIT | https://ethernaut.openzeppelin.com |
+| Damn Vulnerable DeFi | DeFi exploit labs | MIT | https://github.com/OpenZeppelin/damn-vulnerable-defi |
+| Solidity Docs | Official language spec | Open | https://docs.soliditylang.org |
+| OpenZeppelin | Secure contract libs | MIT | https://openzeppelin.com |
+
+--- 
